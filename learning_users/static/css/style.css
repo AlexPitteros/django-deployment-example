@@ -1,0 +1,24 @@
+
+
+.nav > li > div > a:hover
+{
+    background-color:#5d6777;
+}
+
+body
+{
+  background-color: #1b1e23;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.topmargin
+{
+  margin-top: 20px;
+}
